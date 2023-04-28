@@ -153,7 +153,7 @@ section ul li{
     width: 304px;
 }
 section ul li:first-child{
-    background: #90EE90;
+    background:#DFAC7C;
     width: 244px;
     padding: 30px;
 }
@@ -185,7 +185,7 @@ section ul li a span.textbox{
     border-bottom: 5px solid #000;
 }
 section li:hover .textbox{
-    border-bottom-color: #90EE90;
+    border-bottom-color: #DFAC7C;
 }
 section ul li a span.textbox strong{
     font-size: 1.4rem;
